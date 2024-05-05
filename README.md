@@ -71,6 +71,8 @@ plt.title("Customer Segments")
 
 ### Dataset information:
 ![image](https://github.com/Sriram8452/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/118708032/8b819822-aa89-406f-b8dd-61266714ed46)
+
+
 ![image](https://github.com/Sriram8452/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/118708032/57679007-6f66-4d54-adef-ee797a7baf73)
 
 
